@@ -1,3 +1,4 @@
+test
 <?php require_once('Connections/Myconnection.php'); ?>
 <?php
 $table = get_param('table');
